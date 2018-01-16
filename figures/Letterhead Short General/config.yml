@@ -1,0 +1,19 @@
+---
+version: 2
+multicolumn: false
+web-width: 500px
+align: center
+float: h!
+grid:
+  rows: 1
+  columns: 1
+  grid_elements:
+  - path: figures/Letterhead Short General/Letterhead Short General.svg
+    type: static
+    from:
+    - 1
+    - 1
+    to:
+    - 1
+    - 1
+    url: "/users/219716/articles/280290/master/file/figures/Letterhead%20Short%20General/Letterhead%20Short%20General.svg"
